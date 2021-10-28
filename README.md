@@ -12,3 +12,6 @@ UPDATE VERSION 2.0
   
 NHỮNG ĐIỀU CHƯA HOÀN THIỆN
 - Code còn dài, lằng nhằng, rắc rối. Sợ sau này đọc lại sẽ không hiểu. Vì hồi đó suy nghĩ mãi không biết code như nào để ra được chế độ "Máy đoán số do người chọn" nên mới chỉ code được tính năng, còn refactoring code cho gọn gàng dễ hiểu thì chưa làm được.
+  
+HƯỚNG DẪN SỬ DỤNG  
+Chỉ download file Header.h, Learn.cpp và singlePlayer.cpp thôi. File guessTheNumber.cpp là file code của phiên bản 1.0, do đó thiếu tính năng, nhưng tất nhiên là vẫn chạy được.
