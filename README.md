@@ -1,7 +1,10 @@
 # Hello-World
-Hello, I'm going to learn C++ programming language.  
+Hello, I'm going to learn C++ programming language.
+  
+VERSION 1.0
 Game guessTheNumber bị lỗi ở một chỗ, khi số số hạng n mà log2(n) ra một số nguyên thì sẽ bị thiếu một lần đoán để 100% chiến thắng.  
-Ví dụ: [1;8] thì game sẽ tính ra số lần đoán tối đa là 3, nhưng thực tế phải cần 4 lần đoán thì mới 100% chiến thắng  
+Ví dụ: [1;8] thì game sẽ tính ra số lần đoán tối đa là 3, nhưng thực tế phải cần 4 lần đoán thì mới 100% chiến thắng 
+! Đã sửa xong lỗi này
   
 UPDATE VERSION 2.0
 - Có 2 tính năng: Người đoán số do máy chọn và Máy đoán số do người chọn. Cả hai tính năng đều sẽ giới hạn lượt đoán nhưng sẽ 100% thắng nếu chơi theo binary search
